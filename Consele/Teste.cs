@@ -8,6 +8,6 @@ namespace Consele
     {
         public int A;
         public int B;
-        public double C;
+        public Int C;
     }
 }
